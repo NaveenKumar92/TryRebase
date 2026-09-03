@@ -3,7 +3,6 @@ package accessModifiers;
 class class11{
 	public void method1() {
 		System.out.println("This is a public method");
-		System.out.println("Test rebsae - subBranch01");
 	}
 	protected void method2() {
 		System.out.println("This is a protected mehtod");
